@@ -1,0 +1,12 @@
+name: Labs for OpenShift Workshop
+
+modules:
+    activate:
+    - workshop-overview
+    - openshif-kubernetes-overview
+    - setup-environment
+    - exercises/01-getting-started-with-app-deployment
+    - exercises/02-declarative-app-deployment-and-configuration
+    - exercises/03-services-and-routes
+    - exercises/04-deployment-strategies
+    - workshop-summary
